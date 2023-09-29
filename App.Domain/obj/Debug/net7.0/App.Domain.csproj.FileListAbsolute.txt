@@ -1,0 +1,17 @@
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\App.Domain\bin\Debug\net7.0\App.Domain.deps.json
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\App.Domain\bin\Debug\net7.0\App.Domain.dll
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\App.Domain\bin\Debug\net7.0\App.Domain.pdb
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\App.Domain\obj\Debug\net7.0\App.Domain.csproj.AssemblyReference.cache
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\App.Domain\obj\Debug\net7.0\App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\App.Domain\obj\Debug\net7.0\App.Domain.AssemblyInfoInputs.cache
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\App.Domain\obj\Debug\net7.0\App.Domain.AssemblyInfo.cs
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\App.Domain\obj\Debug\net7.0\App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\App.Domain\obj\Debug\net7.0\App.Domain.dll
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\App.Domain\obj\Debug\net7.0\refint\App.Domain.dll
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\App.Domain\obj\Debug\net7.0\App.Domain.pdb
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\App.Domain\obj\Debug\net7.0\ref\App.Domain.dll
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\App.Domain\bin\Debug\net7.0\Base.Contracts.Domain.dll
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\App.Domain\bin\Debug\net7.0\Base.Contracts.Domain.pdb
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\App.Domain\obj\Debug\net7.0\App.Domain.csproj.CopyComplete
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\App.Domain\bin\Debug\net7.0\Base.Domain.dll
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\App.Domain\bin\Debug\net7.0\Base.Domain.pdb

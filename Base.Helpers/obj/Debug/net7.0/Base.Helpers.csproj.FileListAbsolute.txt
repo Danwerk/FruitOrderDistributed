@@ -1,0 +1,12 @@
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\Base.Helpers\bin\Debug\net7.0\Base.Helpers.deps.json
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\Base.Helpers\bin\Debug\net7.0\Base.Helpers.dll
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\Base.Helpers\bin\Debug\net7.0\Base.Helpers.pdb
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\Base.Helpers\obj\Debug\net7.0\Base.Helpers.csproj.AssemblyReference.cache
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\Base.Helpers\obj\Debug\net7.0\Base.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\Base.Helpers\obj\Debug\net7.0\Base.Helpers.AssemblyInfoInputs.cache
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\Base.Helpers\obj\Debug\net7.0\Base.Helpers.AssemblyInfo.cs
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\Base.Helpers\obj\Debug\net7.0\Base.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\Base.Helpers\obj\Debug\net7.0\Base.Helpers.dll
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\Base.Helpers\obj\Debug\net7.0\refint\Base.Helpers.dll
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\Base.Helpers\obj\Debug\net7.0\Base.Helpers.pdb
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\Base.Helpers\obj\Debug\net7.0\ref\Base.Helpers.dll

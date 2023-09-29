@@ -1,0 +1,19 @@
+{
+  "App.BLL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.BLL",
+  "App.BLL.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.BLL.DTO",
+  "App.Contracts.BLL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Contracts.BLL",
+  "App.Contracts.DAL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Contracts.DAL",
+  "App.DAL.EF, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.DAL.EF",
+  "App.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Domain",
+  "App.Public.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Public.DTO",
+  "Base.BLL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.BLL",
+  "Base.Contracts.BLL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.BLL",
+  "Base.Contracts.DAL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.DAL",
+  "Base.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts",
+  "Base.Contracts.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.Domain",
+  "Base.DAL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.DAL",
+  "Base.DAL.EF, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.DAL.EF",
+  "Base.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Domain",
+  "Base.Helpers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Helpers",
+  "WebApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\WebApp"
+}

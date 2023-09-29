@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "6dq4zxt35pS7vKBxZ6tHFRlkKWNjbrROTDPbx8yraMEiS6fqYKO2AAr8+dYp4Bn7WkLOYOD4WJiat0BBS/Gr0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts\\Base.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danyi\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\danyi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\danyi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\danyi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\danyi\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\danyi\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\danyi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

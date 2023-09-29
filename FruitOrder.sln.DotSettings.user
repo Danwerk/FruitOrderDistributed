@@ -1,0 +1,51 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\danyi\AppData\Local\JetBrains\Rider2022.1\resharper-host\temp\Rider\vAny\CoverageData\_FruitOrder.1596378487\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=22c3e4b7_002D44df_002D41ba_002Dba5c_002Dc3539e191347/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestAllAsync" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C9EDBF1-2479-45BB-9920-55F5342F11A9::net7.0::Tests.WebApp.UnitTests.ProductServiceUnitTests.TestAllAsync&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4aa6ab4a_002D78ca_002D4756_002D8e97_002D6ddb9f996cce/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestAllAsync #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C9EDBF1-2479-45BB-9920-55F5342F11A9::net7.0::Tests.WebApp.UnitTests.ProductServiceUnitTests.TestAllAsync&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C9EDBF1-2479-45BB-9920-55F5342F11A9::net7.0::Tests.WebApp.UnitTests.ProductServiceUnitTests.TestFirstOrDefaultAsync_ReturnsProduct_WhenProductExists&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C9EDBF1-2479-45BB-9920-55F5342F11A9::net7.0::Tests.WebApp.UnitTests.ProductServiceUnitTests.TestFirstOrDefaultAsync_ReturnsNull_WhenProductDoesNotExist&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C9EDBF1-2479-45BB-9920-55F5342F11A9::net7.0::Tests.WebApp.UnitTests.BaseServiceUnitTests.AllAsync_ShouldReturnEntities&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C9EDBF1-2479-45BB-9920-55F5342F11A9::net7.0::Tests.WebApp.UnitTests.BaseServiceUnitTests.FindAsync_ReturnsMappedEntity&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C9EDBF1-2479-45BB-9920-55F5342F11A9::net7.0::Tests.WebApp.UnitTests.BaseServiceUnitTests.FirstOrDefaultAsync_ValidId_ReturnsMappedEntity&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C9EDBF1-2479-45BB-9920-55F5342F11A9::net7.0::Tests.WebApp.UnitTests.BaseServiceUnitTests.Add_ReturnsMappedEntity&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C9EDBF1-2479-45BB-9920-55F5342F11A9::net7.0::Tests.WebApp.UnitTests.BaseServiceUnitTests.Update_ReturnsMappedEntity&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C9EDBF1-2479-45BB-9920-55F5342F11A9::net7.0::Tests.WebApp.UnitTests.BaseServiceUnitTests.Remove_ReturnsMappedEntity&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C9EDBF1-2479-45BB-9920-55F5342F11A9::net7.0::Tests.WebApp.UnitTests.BaseServiceUnitTests.RemoveAsync_ReturnsMappedEntity&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C9EDBF1-2479-45BB-9920-55F5342F11A9::net7.0::Tests.WebApp.UnitTests.BaseServiceUnitTests.FirstOrDefaultAsync_InvalidId_ReturnsNull&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C9EDBF1-2479-45BB-9920-55F5342F11A9::net7.0::Tests.WebApp.UnitTests.BaseServiceUnitTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C9EDBF1-2479-45BB-9920-55F5342F11A9::net7.0::Tests.WebApp.IntegrationTests.api.identity.IdentityIntegrationTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6190e43f_002D03d7_002D401e_002D911d_002Dbb865b9e20a3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestAllAsync #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C9EDBF1-2479-45BB-9920-55F5342F11A9::net7.0::Tests.WebApp.UnitTests.ProductServiceUnitTests.TestAllAsync&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8b70529e_002Dc312_002D4b18_002Dad6f_002D63823f77de44/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestAllAsync #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C9EDBF1-2479-45BB-9920-55F5342F11A9::net7.0::Tests.WebApp.UnitTests.ProductServiceUnitTests.TestAllAsync&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C9EDBF1-2479-45BB-9920-55F5342F11A9::net7.0::Tests.WebApp.IntegrationTests.api.ProductIntegrationTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e66137d1_002Ddede_002D400a_002Da7cd_002Dc788a25d2e8f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="create / get / edit / delete product #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C9EDBF1-2479-45BB-9920-55F5342F11A9::net7.0::Tests.WebApp.IntegrationTests.api.ProductIntegrationTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C9EDBF1-2479-45BB-9920-55F5342F11A9::net7.0::Tests.WebApp.UnitTests.BaseServiceUnitTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2C9EDBF1-2479-45BB-9920-55F5342F11A9::net7.0::Tests.WebApp.UnitTests.ProductServiceUnitTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

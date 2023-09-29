@@ -1,0 +1,1190 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\WebApp\\WebApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.BLL.DTO\\App.BLL.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.BLL.DTO\\App.BLL.DTO.csproj",
+        "projectName": "App.BLL.DTO",
+        "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.BLL.DTO\\App.BLL.DTO.csproj",
+        "packagesPath": "C:\\Users\\danyi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.BLL.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danyi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Domain\\App.Domain.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Domain\\App.Domain.csproj"
+              },
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Domain\\Base.Domain.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Domain\\Base.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.BLL\\App.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.BLL\\App.BLL.csproj",
+        "projectName": "App.BLL",
+        "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.BLL\\App.BLL.csproj",
+        "packagesPath": "C:\\Users\\danyi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danyi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.BLL.DTO\\App.BLL.DTO.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.BLL.DTO\\App.BLL.DTO.csproj"
+              },
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Contracts.BLL\\App.Contracts.BLL.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Contracts.BLL\\App.Contracts.BLL.csproj"
+              },
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Contracts.DAL\\App.Contracts.DAL.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Contracts.DAL\\App.Contracts.DAL.csproj"
+              },
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Domain\\App.Domain.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Domain\\App.Domain.csproj"
+              },
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.BLL\\Base.BLL.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.BLL\\Base.BLL.csproj"
+              },
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.DAL\\Base.DAL.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.DAL\\Base.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Contracts.BLL\\App.Contracts.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Contracts.BLL\\App.Contracts.BLL.csproj",
+        "projectName": "App.Contracts.BLL",
+        "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Contracts.BLL\\App.Contracts.BLL.csproj",
+        "packagesPath": "C:\\Users\\danyi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Contracts.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danyi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.BLL.DTO\\App.BLL.DTO.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.BLL.DTO\\App.BLL.DTO.csproj"
+              },
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Contracts.DAL\\App.Contracts.DAL.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Contracts.DAL\\App.Contracts.DAL.csproj"
+              },
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.BLL\\Base.Contracts.BLL.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.BLL\\Base.Contracts.BLL.csproj"
+              },
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts\\Base.Contracts.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts\\Base.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Contracts.DAL\\App.Contracts.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Contracts.DAL\\App.Contracts.DAL.csproj",
+        "projectName": "App.Contracts.DAL",
+        "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Contracts.DAL\\App.Contracts.DAL.csproj",
+        "packagesPath": "C:\\Users\\danyi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Contracts.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danyi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Domain\\App.Domain.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Domain\\App.Domain.csproj"
+              },
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.DAL\\Base.Contracts.DAL.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.DAL\\Base.Contracts.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.DAL.EF\\App.DAL.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.DAL.EF\\App.DAL.EF.csproj",
+        "projectName": "App.DAL.EF",
+        "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.DAL.EF\\App.DAL.EF.csproj",
+        "packagesPath": "C:\\Users\\danyi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.DAL.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danyi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Contracts.DAL\\App.Contracts.DAL.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Contracts.DAL\\App.Contracts.DAL.csproj"
+              },
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Domain\\App.Domain.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Domain\\App.Domain.csproj"
+              },
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.DAL.EF\\Base.DAL.EF.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.DAL.EF\\Base.DAL.EF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Domain\\App.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Domain\\App.Domain.csproj",
+        "projectName": "App.Domain",
+        "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Domain\\App.Domain.csproj",
+        "packagesPath": "C:\\Users\\danyi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danyi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.Domain\\Base.Contracts.Domain.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.Domain\\Base.Contracts.Domain.csproj"
+              },
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Domain\\Base.Domain.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Domain\\Base.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Public.DTO\\App.Public.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Public.DTO\\App.Public.DTO.csproj",
+        "projectName": "App.Public.DTO",
+        "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Public.DTO\\App.Public.DTO.csproj",
+        "packagesPath": "C:\\Users\\danyi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Public.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danyi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.BLL.DTO\\App.BLL.DTO.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.BLL.DTO\\App.BLL.DTO.csproj"
+              },
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Domain\\App.Domain.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Domain\\App.Domain.csproj"
+              },
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.DAL\\Base.DAL.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.DAL\\Base.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.BLL\\Base.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.BLL\\Base.BLL.csproj",
+        "projectName": "Base.BLL",
+        "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.BLL\\Base.BLL.csproj",
+        "packagesPath": "C:\\Users\\danyi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danyi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.BLL\\Base.Contracts.BLL.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.BLL\\Base.Contracts.BLL.csproj"
+              },
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts\\Base.Contracts.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts\\Base.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.BLL\\Base.Contracts.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.BLL\\Base.Contracts.BLL.csproj",
+        "projectName": "Base.Contracts.BLL",
+        "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.BLL\\Base.Contracts.BLL.csproj",
+        "packagesPath": "C:\\Users\\danyi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danyi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.DAL\\Base.Contracts.DAL.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.DAL\\Base.Contracts.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.DAL\\Base.Contracts.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.DAL\\Base.Contracts.DAL.csproj",
+        "projectName": "Base.Contracts.DAL",
+        "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.DAL\\Base.Contracts.DAL.csproj",
+        "packagesPath": "C:\\Users\\danyi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danyi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.Domain\\Base.Contracts.Domain.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.Domain\\Base.Contracts.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.Domain\\Base.Contracts.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.Domain\\Base.Contracts.Domain.csproj",
+        "projectName": "Base.Contracts.Domain",
+        "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.Domain\\Base.Contracts.Domain.csproj",
+        "packagesPath": "C:\\Users\\danyi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danyi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts\\Base.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts\\Base.Contracts.csproj",
+        "projectName": "Base.Contracts",
+        "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts\\Base.Contracts.csproj",
+        "packagesPath": "C:\\Users\\danyi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danyi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.DAL.EF\\Base.DAL.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.DAL.EF\\Base.DAL.EF.csproj",
+        "projectName": "Base.DAL.EF",
+        "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.DAL.EF\\Base.DAL.EF.csproj",
+        "packagesPath": "C:\\Users\\danyi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.DAL.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danyi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.DAL\\Base.Contracts.DAL.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.DAL\\Base.Contracts.DAL.csproj"
+              },
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts\\Base.Contracts.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts\\Base.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.DAL\\Base.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.DAL\\Base.DAL.csproj",
+        "projectName": "Base.DAL",
+        "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.DAL\\Base.DAL.csproj",
+        "packagesPath": "C:\\Users\\danyi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danyi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts\\Base.Contracts.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts\\Base.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Domain\\Base.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Domain\\Base.Domain.csproj",
+        "projectName": "Base.Domain",
+        "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Domain\\Base.Domain.csproj",
+        "packagesPath": "C:\\Users\\danyi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danyi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.Domain\\Base.Contracts.Domain.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Contracts.Domain\\Base.Contracts.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Helpers\\Base.Helpers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Helpers\\Base.Helpers.csproj",
+        "projectName": "Base.Helpers",
+        "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Helpers\\Base.Helpers.csproj",
+        "packagesPath": "C:\\Users\\danyi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Helpers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danyi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.24.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.24.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\WebApp\\WebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\WebApp\\WebApp.csproj",
+        "projectName": "WebApp",
+        "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\WebApp\\WebApp.csproj",
+        "packagesPath": "C:\\Users\\danyi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\WebApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danyi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.BLL\\App.BLL.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.BLL\\App.BLL.csproj"
+              },
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.DAL.EF\\App.DAL.EF.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.DAL.EF\\App.DAL.EF.csproj"
+              },
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Public.DTO\\App.Public.DTO.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\App.Public.DTO\\App.Public.DTO.csproj"
+              },
+              "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Helpers\\Base.Helpers.csproj": {
+                "projectPath": "C:\\Users\\danyi\\RiderProjects\\KProgemine\\icd0021-22-23-s\\FruitOrder\\Base.Helpers\\Base.Helpers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Asp.Versioning.Http": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Asp.Versioning.Mvc": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Asp.Versioning.Mvc.ApiExplorer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0-preview.1.23111.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.0-preview.1.23111.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\Base.DAL\bin\Debug\net7.0\Base.DAL.deps.json
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\Base.DAL\bin\Debug\net7.0\Base.DAL.dll
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\Base.DAL\bin\Debug\net7.0\Base.DAL.pdb
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\Base.DAL\bin\Debug\net7.0\Base.Contracts.dll
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\Base.DAL\bin\Debug\net7.0\Base.Contracts.pdb
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\Base.DAL\obj\Debug\net7.0\Base.DAL.csproj.AssemblyReference.cache
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\Base.DAL\obj\Debug\net7.0\Base.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\Base.DAL\obj\Debug\net7.0\Base.DAL.AssemblyInfoInputs.cache
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\Base.DAL\obj\Debug\net7.0\Base.DAL.AssemblyInfo.cs
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\Base.DAL\obj\Debug\net7.0\Base.DAL.csproj.CoreCompileInputs.cache
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\Base.DAL\obj\Debug\net7.0\Base.DAL.csproj.CopyComplete
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\Base.DAL\obj\Debug\net7.0\Base.DAL.dll
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\Base.DAL\obj\Debug\net7.0\refint\Base.DAL.dll
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\Base.DAL\obj\Debug\net7.0\Base.DAL.pdb
+C:\Users\danyi\RiderProjects\KProgemine\icd0021-22-23-s\FruitOrder\Base.DAL\obj\Debug\net7.0\ref\Base.DAL.dll
